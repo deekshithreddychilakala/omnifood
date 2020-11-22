@@ -151,6 +151,18 @@ input[type=submit]:active {
     margin-top: 20px;
 }
 
+.logo-black {
+    height: 50px;
+    width: auto;
+    float: left;
+    margin: 5px 0;
+}
+
+.logo-black {
+    display: none;
+}
+
+/* main navigation */
 .main-nav {
     margin-top: 55px;
     float: right;
@@ -176,6 +188,36 @@ input[type=submit]:active {
 .main-nav li a:hover,
 .main-nav li a:active {
     border-bottom: 2px solid #e67e22;
+}
+
+/* sticky navigation */
+.sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255, 0.98);
+    box-shadow: 0 2px 2px #efefef;
+}
+
+.sticky .main-nav {
+    margin-top: 18px;
+}
+
+.sticky .main-nav li a:link,
+.sticky .main-nav li a:visited {
+    padding: 16px 0;
+    text-decoration: none;
+    color: #555555;
+}
+
+.sticky .logo-black {
+    display: block;
+
+}
+
+.sticky .logo {
+    display: none;
 }
 
 section {
