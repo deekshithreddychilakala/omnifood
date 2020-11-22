@@ -15,6 +15,6 @@ This is a project created while learning HTML and CSS
 
 **Important Resources:**
 
-Userful Scripts: JSDelivr (jsdelivr.com)
+    Userful Scripts: JSDelivr (jsdelivr.com)
 
-Check which CSS Property can be used in which Browser: Can I use (caniuse.com)
+    Check which CSS Property can be used in which Browser: Can I use (caniuse.com)
