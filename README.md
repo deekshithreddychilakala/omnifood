@@ -3,7 +3,7 @@
 This is a project created while learning HTML and CSS
 
 
-CSS Browser Prefixes:
+# CSS Browser Prefixes:
 
 android, chrome, ios, safari:
     -webkit-
