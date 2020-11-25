@@ -601,3 +601,17 @@ footer p {
 .js-wp-3 .animated {
     opacity: 1;
 }
+
+
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+
+}
+
+.mobile-nav-icon i {
+    font-size: 200%;
+    color: #fff;
+}
