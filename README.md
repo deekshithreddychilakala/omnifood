@@ -27,4 +27,21 @@ This is a project created while learning HTML and CSS
     - [Google Maps JS](https://maplacejs.com)
     - [TyperJS](https://cosmos.layervault.com/typer-js.html)
     - [One Pafe Scroll - see one section after other](https://www.thepetedesign.com/demos/onepage_scroll_demo.html)
-    
+
+
+
+**Web Design Blogs**
+
+    - designmodo
+    - sidebar.io
+    - sitepoint
+    - hey designer
+    - 1st webdesigner
+    - smashing magazine
+
+**Web Design contests and freelance sites **
+
+    - 99design.com
+    - freelancer.com
+    - odesk
+    - elance
