@@ -1,6 +1,6 @@
 # omnifood (HTML & CSS)
  
-This is a project created while learning HTML and CSS
+This is a sample project created while learning HTML and CSS using basic JQuery
 
 **CSS Browser Prefixes:**
 
